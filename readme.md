@@ -81,4 +81,4 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/Rolling stones 2e pagina-100.jpg" width="375px" alt="omschrijving van de pagina">
+<img src="images/Rolling stones 2e pagina-100.jpg" width="375px" alt="Pagina over exhibition met gave animatie">
