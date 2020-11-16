@@ -6,7 +6,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. www.rollingstones.com
+1. www.gooise-gitaren.nl
 2. -bron 2-
 3. -...-
 
@@ -73,14 +73,14 @@ https://codepen.io/joeribouwman25/pen/wvWNyKp
 
 **Je startniveau:** Rood
 
-**Je focus:** Surface Plane
+**Je focus:** ik wil mij focussen op het Responsive maken van de website. De website ziet er nu verschrikkelijk uit en het lijkt mij dan ook een mooie uitdaging om de website op te krikken en met een CMD sausje te overgieten. 
 
-**Je opdracht:** www.rollingstones.com
+**Je opdracht:** www.gooise-gitaren.nl
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/Rolling stones homepage.jpg" width="375px" alt="Homepagina van de website">
+<img src="images/Home Pagina-gooise.jpg" width="375px" alt="Homepagina van de website">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/Rolling stones 2e pagina.jpg" width="375px" alt="exhibition pagina met gave animatie">
+<img src="images/Product Pagina-gooise.jpg" width="375px" alt="product pagina van website">
