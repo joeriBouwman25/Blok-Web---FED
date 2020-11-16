@@ -64,6 +64,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
 
+font oefeningen op codepen:
+https://codepen.io/joeribouwman25/pen/wvWNyKp
 
 
 ## Intake (week 1)
