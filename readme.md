@@ -62,16 +62,19 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Breakdownschets (week 1)
 
--uitwerken voor de 1e werkgroep - eind van de eerste week-
+Ik heb de breakdown schetsen van de home en product pagina gemaakt, kijkend in de browser zijn er veel elementen die niet kloppen, zoals een H2 element gebruiken als een section en een Menu element gebruiken als Footer. Veel ruimte voor verbetering dus!
 
-font oefeningen op codepen:
+<img src="images/Breakdownschets Homepagina.jpg" width="375px" alt="Breakdown schets van Homepagina van de website">
+<img src="images/Breakdownschets Productpagina.jpg" width="375px" alt="Breakdown schets van productpagina van de website">
+
+Ook heb ik geoefent met lettertypes in de volgende codepen:
 https://codepen.io/joeribouwman25/pen/wvWNyKp
 
 
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
-**Je startniveau:** Rood
+**Je startniveau:** Rood/Zwart
 
 **Je focus:** ik wil mij focussen op het Responsive maken van de website. De website ziet er nu verschrikkelijk uit en het lijkt mij dan ook een mooie uitdaging om de website op te krikken en met een CMD sausje te overgieten. 
 
