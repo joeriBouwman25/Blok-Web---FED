@@ -79,10 +79,10 @@ https://codepen.io/joeribouwman25/pen/wvWNyKp
 
 **Je opdracht:** www.gooise-gitaren.nl
 
-**Screenshot(s) van de eerste pagina (small screen):**
+**Screenshot(s) van de eerste pagina (small screen):**  **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/Home Pagina-gooise.jpg" width="375px" alt="Homepagina van de website">
+<img src="images/Home Pagina-gooise.jpg" width="375px" alt="Homepagina van de website"><img src="images/Product Pagina-gooise.jpg" width="375px" alt="product pagina van website">
 
-**Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/Product Pagina-gooise.jpg" width="375px" alt="product pagina van website">
+
+
