@@ -58,7 +58,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 -na afloop snel uitkomsten vastleggen-
 opdrachten:
-https://codepen.io/joeribouwman25/pen/ExyJVrm
+https://codepen.io/joeribouwman25/pen/ZEONppp
 
 
 ## Breakdownschets (week 1)
