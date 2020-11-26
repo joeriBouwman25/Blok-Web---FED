@@ -7,8 +7,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. www.gooise-gitaren.nl
-2. -bron 2-
-3. -...-
+2. www.w3schools.com
+3. https://codepen.io/erikterwan/pen/EVzeRP
 
 
 
