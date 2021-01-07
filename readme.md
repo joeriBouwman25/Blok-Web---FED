@@ -9,6 +9,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 1. www.gooise-gitaren.nl
 2. www.w3schools.com
 3. https://codepen.io/erikterwan/pen/EVzeRP
+4. https://codepen.io/shooft/pen/BaKGKwm
+5. https://codepen.io/joeribouwman25/pen/ExyJVrm
+6. https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient()
+7. https://cssgridgarden.com/#nl
+8. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+9. https://css-tricks.com/snippets/css/complete-guide-grid/
+10.https://css-tricks.com/
 
 
 
