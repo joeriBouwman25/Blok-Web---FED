@@ -20,21 +20,24 @@ Helaas is de website niet volledig af omdat dit een te groot project zal worden.
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+<img src="images/eindresultaat-100.jpg" width="375px" alt="screenshot 1"> <img src="images/eindresultaat 2-100.jpg" width="375px" alt="screenshot 1"><img src="images/eindresultaat 3-100.jpg" width="375px" alt="screenshot 1"><img src="images/eindresultaat 4-100.jpg" width="375px" alt="screenshot 1"><img src="images/eindresultaat 5-100.jpg" width="375px" alt="screenshot 1"><img src="images/eindresultaat 6-100.jpg" width="375px" alt="screenshot 1">
 
 
 
 ## Voortgang 3 (week 6)
 Er is een begin gemaakt aan de product pagina, ik vond het lastig om mijn CSS voor meerdere pagina's in te zetten dit heb ik opgelost door per pagina de body een class mee te geven en binnen deze classes elementen aan te spreken. Ook zijn er images aan de index pagina toegevoegd en heb ik de artikel informatie op de juiste manier gepositioneerd door middel van flexbox.
 
+**Screenshots:**
 
+<img src="images/screenshot week 7-100.jpg" width="375px" alt="screenshot 1"> <img src="images/screenshot week 7 (2)-100.jpg" width="375px" alt="screenshot 1"> <img src="images/screenshot week 7 (3)-100.jpg" width="375px" alt="screenshot 1">
 
 ## Voortgang 2 (week 5)
 
 De header is nu goed gepositioneerd, ook zijn de producten nu gepositioneerd met grid in plaats van flexbox. Waar de producten eerst als Li in mijn html structuur stonden zijn dit nu Articles geworden om het semantisch correct te maken. Ook is er een animatie op het winkelwagentje gezet waardoor deze uit het scherm wegrijdt wanneer deze wordt aangeklikt. De skelet structuur van de product pagina is gemaakt.
 
+**Screenshots:**
 
-
+<img src="images/screenshot week 5-100.jpg" width="375px" alt="screenshot 1"><img src="images/screenshot week 5 (2)-100.jpg" width="375px" alt="screenshot 1"><img src="images/screenshot week 5 (3)-100.jpg" width="375px" alt="screenshot 1"><img src="images/screenshot week 5(4)-100.jpg" width="375px" alt="screenshot 1"><img src="images/screenshot week 5 (5)-100.jpg" width="375px" alt="screenshot 1">
 
 ## Voortgang 1 (week 3)
 
@@ -43,7 +46,8 @@ De header is responsive, zodra de website breder wordt verdwijnt het hamburger m
 
 De verschillende producten (gitaren) zijn nu ook gepositioneerd met flex en werkt responsive.
 De header is nu gepositioneerd met flexbox. 
-**Screenshot(s):**
+**Screenshots:**
+
 <img src="images/screenshot week 3-100.jpg" width="375px" alt="screenshot 1">  <img src="images/screenshot week 3 (2)-100.jpg" width="375px" alt="screenshot 1"> <img src="images/screenshot week 3(3)-100.jpg" width="375px" alt="screenshot 1">
 
 ## Breakdownschets (week 1)
