@@ -13,8 +13,10 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Eindgesprek (week 7/8)
+De index en product pagina hebben een carrousel met images gekregen. lastig hier aan was dat een deel van de images op display none moeten staan waardoor de elementen hier op heen lastig te positioneren waren.
+Wanneer je de product pagina staan klapt de carrousel met images uit tot een grid met images. het was erg lastig om het juiste grid raster te definieren aan de hand van verschillende afbeelding groottes, na veel worstelen is dit uiteindelijk gelukt. 
 
--dit ging goed & dit was lastig-
+Helaas is de website niet volledig af omdat dit een te groot project zal worden. wel kijk ik met tevredenheid terug op de berg werk die wel verzet is en zal ik in de toekomst verder werken aan de website om hem aan Gooise gitaren te kunnen laten zien. 
 
 **Screenshot(s):**
 
@@ -23,43 +25,26 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Voortgang 3 (week 6)
-
--same as voortgang 1-
+Er is een begin gemaakt aan de product pagina, ik vond het lastig om mijn CSS voor meerdere pagina's in te zetten dit heb ik opgelost door per pagina de body een class mee te geven en binnen deze classes elementen aan te spreken. Ook zijn er images aan de index pagina toegevoegd en heb ik de artikel informatie op de juiste manier gepositioneerd door middel van flexbox.
 
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+De header is nu goed gepositioneerd, ook zijn de producten nu gepositioneerd met grid in plaats van flexbox. Waar de producten eerst als Li in mijn html structuur stonden zijn dit nu Articles geworden om het semantisch correct te maken. Ook is er een animatie op het winkelwagentje gezet waardoor deze uit het scherm wegrijdt wanneer deze wordt aangeklikt. De skelet structuur van de product pagina is gemaakt.
+
 
 
 
 ## Voortgang 1 (week 3)
 
 ### Stand van zaken
+De header is responsive, zodra de website breder wordt verdwijnt het hamburger menu en is de navigatie over de hele breedte te zien. wat nu nog niet gelukt is, is het logo in het midden te positioneren en de verschillende elementen uit de nav gelijk aan elkaar uit te lijnen. 
 
--dit ging goed & dit was lastig-
-
+De verschillende producten (gitaren) zijn nu ook gepositioneerd met flex en werkt responsive.
+De header is nu gepositioneerd met flexbox. 
 **Screenshot(s):**
-
--screenshot(s) van hoe ver je bent met korte uitleg-
-
-### Agenda voor meeting
-
--samen met je groepje opstellen-
-
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
-
-### Verslag van meeting
-
--na afloop snel uitkomsten vastleggen-
-opdrachten:
-https://codepen.io/joeribouwman25/pen/ZEONppp
-
+<img src="images/screenshot week 3-100.jpg" width="375px" alt="screenshot 1">  <img src="images/screenshot week 3 (2)-100.jpg" width="375px" alt="screenshot 1"> <img src="images/screenshot week 3(3)-100.jpg" width="375px" alt="screenshot 1">
 
 ## Breakdownschets (week 1)
 
